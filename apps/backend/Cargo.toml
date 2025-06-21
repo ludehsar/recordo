@@ -1,0 +1,21 @@
+[workspace]
+
+members = [
+    "app-accommodation-service",
+    "app-kafka-connector-mongodb",
+    "app-kafka-connector-relationaldb",
+    "app-kafka-schema-publisher",
+    "app-kafka-topic-client",
+    "app-user-service",
+    "common-db-mongodb",
+    "common-db-relationaldb",
+    "common-error",
+    "common-kafka",
+    "common-metrics",
+    "common-security",
+    "common-tracing",
+    "kafka-schema-accommodation",
+    "kafka-schema-common",
+    "kafka-schema-user",
+    "opentelemetry-propagator-b3"
+]
